@@ -36,3 +36,10 @@
   <a href = "mailto: miguel-borges20111@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
  <br>
 </p>
+ ##
+
+<p align="center" width="100%">
+ 
+ ![snake animation](https://github.com/miguel220/miguel220/blob/output/github-contribution-grid-snake2.svg)
+
+</p>
